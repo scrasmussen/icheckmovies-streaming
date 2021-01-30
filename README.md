@@ -11,3 +11,10 @@ $ make
 ```
 
 Choose list to print.
+
+![thriller_list](https://raw.githubusercontent.com/scrasmussen/icheckmovies-streaming/main/images/thriller_list.png)
+
+
+## Todo
+ - Better list output
+ - Select movie and check if it is available to stream
